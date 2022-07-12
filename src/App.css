@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.wrapper{
+  width: 100%; height: 200px;
+
+  background: #61dafb;
+}
+.wrapper h1{
+  font-size: 30px;
+}
